@@ -2,7 +2,7 @@
 
 ## Links:
 
-* [This is me] (https://vk.com/svanchukov)
+* [This is me] ttps://vk.com/sva
 * <https://vk.com/svanchukov>
 
 ## Pictures:
